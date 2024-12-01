@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "INFIq+0TDoI=",
+  "success": true,
+  "projectFilePath": "C:\\skola\\DnD_API\\DnD_API\\DnD_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dylan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

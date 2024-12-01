@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\skola\\DnD_API\\DnD_API\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DnD_API.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DnD_API.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\skola\\DnD_API\\DnD_API\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\skola\\DnD_API\\DnD_API\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\skola\\DnD_API\\DnD_API\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\skola\\DnD_API\\DnD_API\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DnD_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DnD_API.props",
+      "PackagePath": "build\\DnD_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DnD_API.props",
+      "PackagePath": "buildMultiTargeting\\DnD_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DnD_API.props",
+      "PackagePath": "buildTransitive\\DnD_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

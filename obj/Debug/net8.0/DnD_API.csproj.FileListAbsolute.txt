@@ -1,0 +1,64 @@
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\bin\Debug\net8.0\appsettings.json
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\bin\Debug\net8.0\DnD_API.staticwebassets.runtime.json
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\bin\Debug\net8.0\DnD_API.exe
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\bin\Debug\net8.0\DnD_API.deps.json
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\bin\Debug\net8.0\DnD_API.runtimeconfig.json
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\bin\Debug\net8.0\DnD_API.dll
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\bin\Debug\net8.0\DnD_API.pdb
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\DnD_API.csproj.AssemblyReference.cache
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\DnD_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\DnD_API.AssemblyInfoInputs.cache
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\DnD_API.AssemblyInfo.cs
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\DnD_API.csproj.CoreCompileInputs.cache
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\DnD_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\staticwebassets\msbuild.DnD_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\staticwebassets\msbuild.build.DnD_API.props
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DnD_API.props
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DnD_API.props
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\scopedcss\bundle\DnD_API.styles.css
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\scopedcss\projectbundle\DnD_API.bundle.scp.css
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\DnD_API.csproj.Up2Date
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\DnD_API.dll
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\refint\DnD_API.dll
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\DnD_API.pdb
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\DnD_API.genruntimeconfig.cache
+C:\Users\ryanh\OneDrive\Desktop\Blazor app\CA1 - SOA\DnD_API\obj\Debug\net8.0\ref\DnD_API.dll
+C:\skola\DnD_API\DnD_API\bin\Debug\net8.0\appsettings.Development.json
+C:\skola\DnD_API\DnD_API\bin\Debug\net8.0\appsettings.json
+C:\skola\DnD_API\DnD_API\bin\Debug\net8.0\DnD_API.staticwebassets.runtime.json
+C:\skola\DnD_API\DnD_API\bin\Debug\net8.0\DnD_API.exe
+C:\skola\DnD_API\DnD_API\bin\Debug\net8.0\DnD_API.deps.json
+C:\skola\DnD_API\DnD_API\bin\Debug\net8.0\DnD_API.runtimeconfig.json
+C:\skola\DnD_API\DnD_API\bin\Debug\net8.0\DnD_API.dll
+C:\skola\DnD_API\DnD_API\bin\Debug\net8.0\DnD_API.pdb
+C:\skola\DnD_API\DnD_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\DnD_API.csproj.AssemblyReference.cache
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\DnD_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\DnD_API.AssemblyInfoInputs.cache
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\DnD_API.AssemblyInfo.cs
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\DnD_API.csproj.CoreCompileInputs.cache
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\DnD_API.MvcApplicationPartsAssemblyInfo.cache
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\staticwebassets\msbuild.DnD_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\staticwebassets\msbuild.build.DnD_API.props
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DnD_API.props
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DnD_API.props
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\scopedcss\bundle\DnD_API.styles.css
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\scopedcss\projectbundle\DnD_API.bundle.scp.css
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\DnD_API.csproj.Up2Date
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\DnD_API.dll
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\refint\DnD_API.dll
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\DnD_API.pdb
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\DnD_API.genruntimeconfig.cache
+C:\skola\DnD_API\DnD_API\obj\Debug\net8.0\ref\DnD_API.dll

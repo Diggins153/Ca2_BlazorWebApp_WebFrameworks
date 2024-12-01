@@ -1,0 +1,31 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+@inject DnDApiService DnDApiService
+
+@if (dwarf == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <h1>@dwarf.Name</h1>
+    <p><strong>Alignment:</strong> @dwarf.Alignment</p>
+    <p><strong>Age:</strong> @dwarf.Age</p>
+    <p><strong>Size:</strong> @dwarf.Size</p>
+    <p><strong>Description:</strong> @dwarf.SizeDescription</p>
+    <p><strong>Language Description:</strong> @dwarf.LanguageDesc</p>
+}
+
+@code {
+    private DwarfRace? dwarf;
+
+    protected override async Task OnInitializedAsync()
+    {
+        dwarf = await DnDApiService.GetDwarfRaceAsync();
+    }
+}

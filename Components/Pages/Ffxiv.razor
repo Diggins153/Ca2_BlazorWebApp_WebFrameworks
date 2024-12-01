@@ -1,0 +1,38 @@
+@page "/ff14"
+
+<PageTitle>FFXIV Achievements</PageTitle>
+
+<h1>Game Achievement</h1>
+
+@inject FfxivApiService FfxivApiService
+
+@if (achievement == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <h3>@achievement.Name</h3>
+    <p><strong>Description:</strong> @achievement.Description</p>
+    <p><strong>Points:</strong> @achievement.Points</p>
+    <p><strong>Patch:</strong> @achievement.Patch</p>
+    <p><strong>Order:</strong> @achievement.Order</p>
+    <p><strong>Owned:</strong> @achievement.Owned</p>
+    <img src="@achievement.Icon" alt="@achievement.Name" style="width: 100px; height: 100px;" />
+
+    <h4>Category:</h4>
+    <p>@achievement.Category.Name</p>
+
+    <h4>Type:</h4>
+    <p>@achievement.Type.Name</p>
+}
+
+@code {
+    private GameAchievements? achievement;
+
+    protected override async Task OnInitializedAsync()
+    {
+        achievement = await FfxivApiService.GetGameAchievements();
+    }
+}
+
